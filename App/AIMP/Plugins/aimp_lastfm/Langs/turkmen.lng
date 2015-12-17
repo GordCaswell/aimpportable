@@ -1,0 +1,50 @@
+﻿[Lastfm]
+1=Siz hasaba alynan: %s
+2=Çykanyňyzdan soňra plaginiň bu funksiýa bölegi öz işjeňligini ýitirer! Dowam etmelimi?
+3=Ýalňyşlyk bar!
+4=Myhman
+5=Siz entek hasaba alynmadyk!
+6=Skrobblera-nyň sanawynyň ýagdaýy: %d / %d
+
+[Lastfm.Settings]
+C1=Last.fm
+G1=Dürli
+G2=Hasaba alyn
+L1=Aýtdyrylýan faýl
+L2=Faýl aýtdyrlandan soňra Skrobblitle:
+btnLog=Log-y görkez
+cbAlbumArtSearch=Serwis bazasyndan albomyň suratyny gözlemäge we yükläp almaga rugsat ber
+cbAutoLove=* Bahasynda "5" ýyldyz goýlanlary söýgüliler sanawyna goş
+cbAutoUnlove=* Bahasynda "3" ýyldyzdan az goýlanlary söýgüliler sanawyndan aýyr
+cbScrobbling=* Skrobbling
+cbTrackInfo=Aýtdyrylyp başlananda penjirede maglumatlary görkez
+cbTrayIcon=Trey-de şekilini görkez
+cbTrayNotifyOnError=Ýüze çykan ýalňyşlyk hakynda duýdur
+lbAuthorizationWarning=* Hökman hasaba alynmak gerek
+btnLogOff=Çykmak
+btnAuthorize=Hasaba alynmak
+lbProfileLink=Meniň Last.fm-däki profilim
+
+[Lastfm.Auth]
+Caption=Hasaba alyn
+btnAllowAccess=Ulanmaga rugsat
+lbDetails=Last.fm-de plaginiň dürs işlemegi üçin hökman öz profiliňizi dörediň:\n\n1.Last.fm-de öz profileňe geçmek üçin "Ulanmaga rugsat" diýen düwmä basyň.\n\n2. Brauzerde "Hawa, rugsat berýärin" AIMP-däki Last.fm-e hasabymy birikdirmäge.\n\n3.Soňra profiliňizi Last.fm-de makullamak üçin "Taýyn" düwmesine basyň.
+btnOk=Bolýar
+
+[Lastfm.TrayIcon]
+acErrorInfo=Bu ýalňyşlyk hakynda maglumat
+acLoveTrack=Aýtdyrylýan treki söýgüliler sanawyna goş
+acProfile=Meniň profilim
+acRecommendations=Meniň maslahatlarym
+acScrobbling=Skrobbling-i işlet
+acSettings=Sazlaýjy
+acShowTrackInfo=Trek hakynda maglumat
+acUnloveTrack=Aýtdyrylýan treki söýgüliler sanawyndan poz
+
+[Lastfm.TrackInfo]
+Caption=Ayýtdyrylýan faýl barada maglumat
+L1=Hoş geldiňiz, %s!
+L3=Diňlenýär %d
+L4=Diňleýji: %d
+Status=Maglumat gözleýän...|Kompozisiýa barada maglumat tapylmady|Edil häzirki wagtda hiç zat aýtdyrylmaýar
+pnlScrobblingProgress.h=Progress skrobblera

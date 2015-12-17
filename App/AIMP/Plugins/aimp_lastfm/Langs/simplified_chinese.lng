@@ -1,0 +1,66 @@
+﻿[FILE]
+Author=nabarl (realnabarl@gmail.com)
+Name=简体中文 (CN)
+VersionID=0
+Help=AIMP3-en.chm
+LangId=3551
+
+[Lastfm]
+3=发生错误！
+4=游客
+1=您的登录身份:
+5=您必须登录！
+6=音乐记录队列状态: %d / %d
+2=注销后部分功能将不可用，继续吗？
+
+[Lastfm.Auth]
+btnAllowAccess=允许接入
+btnOk=确定
+Caption=授权
+lbDetails=您必须批准您 last.fm 专页中的权限请求来纠正插件的工作:\n\n1. 在浏览器里点击“允许接入”按钮打开您的 last.fm 专页。\n\n2. 在浏览器里打开的网页中点击“是，允许接入”按钮。\n\n3. 在您的 last.fm 专页成功批准后在此窗口点击“确定”按钮。
+
+[Lastfm.Settings]
+btnLogOff=注销
+C1=Last.fm
+btnLog=显示记录
+btnAuthorize=登录
+lbAuthorizationWarning=* 需要授权
+lbProfileLink=我的 Last.fm 专页
+L1=可播放文件
+L2=文件被计入收听计数须被播放:
+G2=授权
+G1=选项
+cbScrobbling=* 允许音乐记录
+cbTrayIcon=显示托盘按钮
+cbTrackInfo=开始回放时显示可播放曲目的资料
+cbTrayNotifyOnError=出错提醒
+cbUseAlbumArtist=尽可能使用专辑艺术家栏的值而非艺术家栏的值
+cbAlbumArtSearch=从 Last.fm 服务下载专辑封面
+cbAutoLove=* 将曲目打分为5颗星时自动标为喜爱曲目
+cbAutoUnlove=* 将曲目打分为3颗星以下时自动取消该喜爱曲目
+
+[Lastfm.TrackInfo]
+Caption=可播放文件资料
+L1=%s，您好！
+pnlScrobblingProgress.h=音乐记录进度
+L4=听众: %d
+L3=播放次数: %d
+Status=正在搜索资料...|找不到曲目资料|无播放内容
+
+[Lastfm.TrayIcon]
+acProfile=我的专页
+acScrobbling=启用音乐记录
+acSettings=选项
+acShowTrackInfo=曲目信息
+acRecommendations=我的推荐
+acErrorInfo=错误详细
+acLoveTrack=标为喜爱
+acUnloveTrack=取消喜爱
+
+[Lastfm.Welcome]
+btnNoThanks=不，谢谢
+Caption=Last.fm
+btnSetup=立即安装
+btnLater=稍后安装
+lbDetails=Last.fm 是一个根据您收听的音乐来进行个人化推荐的音乐探索服务。
+

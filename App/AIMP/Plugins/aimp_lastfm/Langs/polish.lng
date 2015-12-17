@@ -1,0 +1,56 @@
+﻿[FILE]
+Author=speed89
+Name=Polish (PL)
+VersionID=0
+Help=AIMP3-en.chm
+LangId=1033
+
+[Lastfm]
+3=Wystąpił błąd!
+4=Gość
+1=Jesteś zalogowany jako:
+5=Musisz się zalogować!
+6=Stan kolejki scrobbera: %d / %d
+2=Niektóre funkcje nie będą dostępne po zalogowaniu się. Czy chcesz kontynuować?
+
+[Lastfm.Auth]
+btnAllowAccess=Zezwalaj na dostęp
+btnOk=OK
+Caption=Autoryzacja
+lbDetails=Musisz zatwierdzić uprawnienia w profilu last.fm dla prawidłowej pracy:\n\n1. Klikij w przycisk "Zezwalaj na dostęp" aby otworzyć twój profil last.fm w przeglądarce internetowej.\n\n2. Kliknij przycisk "Tak ,zezwalaj na dostęp"na otwartej stronie internetowej.\n\n3. Kliknij przycisk "OK" w tym oknie po pomyślnym zatwierdzeniu twojego profilu w last.fm
+[Lastfm.Settings]
+btnLogOff=Wyloguj
+C1=Last.fm
+btnLog=Pokaż log
+btnAuthorize=Zaloguj
+lbAuthorizationWarning=* Wymagana autoryzacja
+lbProfileLink=Mój profil w Last.fm
+L1=Odtwarzany plik
+L2=Scrobbuj plik podczas otwarzania:
+G2=Autoryzacja
+G1=Pozostałe
+cbScrobbling=* Zezwól na scrobbling
+cbTrayIcon=Pokaż ikonę powiadomień
+cbTrackInfo=Pokaż informacje na temat odtwarzanych utworów
+cbTrayNotifyOnError=Powiadom o błędach
+cbAlbumArtSearch=Pobierz okładkę albumu z serwisu Last.fm
+cbAutoLove=* Po ustawieniu 5 gwiazdek plik zostaje dodany do ulubionych
+cbAutoUnlove=* Usuń plik z ulubionych po ustawieniu mniej niż 3 gwiazdek
+
+[Lastfm.TrackInfo]
+Caption=Informacje na temat odtwarzanego utworu
+L1=Witaj, %s!
+pnlScrobblingProgress.h=Postęp scrobblera
+L4=Słuchaczy: %d
+L3=Odtwarzań: %d
+Status=Wyszukiwanie informacji...|Informacja na temat utworu nie została znaleziona|Nic nie jest otwarzane
+
+[Lastfm.TrayIcon]
+acProfile=Mój profil
+acScrobbling=Włącz Scrobbling
+acSettings=Opcje
+acShowTrackInfo=Informacje o odtwarzanym pliku
+acRecommendations=Moje rekomendancje
+acErrorInfo=Szczegóły błędu
+acLoveTrack=Uwielbiam
+acUnloveTrack=Usuń z ulubionych

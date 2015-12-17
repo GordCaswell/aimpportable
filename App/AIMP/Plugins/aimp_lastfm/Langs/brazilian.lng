@@ -1,0 +1,66 @@
+﻿[FILE]
+Author=Anderson Diego Kulpa Fachini (anderson.dkfachini@gmail.com)
+Name=Português (BR)
+VersionID=0
+Help=AIMP3-en.chm
+LangId=1046
+
+[Lastfm]
+3=Ocorreu um erro!
+4=Convidado
+1=Você está autenticado como:
+5=Você deve autenticar-se!
+6=Estado da fila de scrobbler: %d / %d
+2=Algumas funções não estarão disponíveis após sair. Você deseja continuar?
+
+[Lastfm.Auth]
+btnAllowAccess=Permitir Acesso
+btnOk=OK
+Caption=Autorização
+lbDetails=Você deve aprovar as permissões necessárias no seu perfil no last.fm para o plugin funcionar corretamente:\n\n1. Clique no botão "Permitir Acesso" para abrir o seu perfil no last.fm no navegador da internet.\n\n2. Clique no botão "Sim, Permitir Acesso" na página aberta no navegador da internet.\n\n3. Clique no botão "OK" nessa janela depois da aprovação com sucesso no seu perfil do last.fm.
+
+[Lastfm.Settings]
+btnLogOff=Sair
+C1=Last.fm
+btnLog=Mostrar Log
+btnAuthorize=Entrar
+lbAuthorizationWarning=* É necessária autorização
+lbProfileLink=Meu Perfil no Last.fm
+L1=Arquivo reproduzível
+L2=Arquivo será considerado reproduzido se ele atingir:
+G2=Autorização
+G1=Opções
+cbScrobbling=* Permitir scrobbling
+cbTrayIcon=Mostrar ícone na bandeja
+cbTrackInfo=Mostrar informações sobre a faixa reproduzível ao iniciar a reprodução
+cbTrayNotifyOnError=Notificar sobre erros
+cbUseAlbumArtist=Use o valor do campo Artista do Álbum ao invés do campo Artista se possível
+cbAlbumArtSearch=Baixar artes de álbum do serviço do Last.fm
+cbAutoLove=* Marcar faixa como preferida quando ela for marcada com 5 estrelas
+cbAutoUnlove=* Desmarcar faixa como preferida quando ela for marcada com menos de 3 estrelas
+
+[Lastfm.TrackInfo]
+Caption=Informação sobre o arquivo reproduzível
+L1=Olá, %s!
+pnlScrobblingProgress.h=Progresso do Scrobbler
+L4=Ouvintes: %d
+L3=Execuções: %d
+Status=Buscando a informação...|Informação sobre a faixa não encontrada|Nada é reproduzido
+
+[Lastfm.TrayIcon]
+acProfile=Meu Perfil
+acScrobbling=Havilitar Scrobbling
+acSettings=Opções
+acShowTrackInfo=Informações da faixa
+acRecommendations=Minhas Recomendações
+acErrorInfo=Detalhes do Erro
+acLoveTrack=Marcar como preferida
+acUnloveTrack=Desmarcar como preferida
+
+[Lastfm.Welcome]
+btnNoThanks=Não, Obrigado
+Caption=Last.fm
+btnSetup=Instalar Agora
+btnLater=Instalar Depois
+lbDetails=A Last.fm é um serviço de descobertas de músicas que faz recomendações personalizadas com base nas músicas que você ouve.
+

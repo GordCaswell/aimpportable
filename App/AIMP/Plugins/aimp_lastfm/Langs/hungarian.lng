@@ -1,0 +1,57 @@
+﻿[FILE]
+Author=Pap Molnár Zsolt
+Name=Magyar (HU)
+VersionID=0
+Help=AIMP3-en.chm
+LangId=1038
+
+[Lastfm]
+3=Egy hiba lépett fel!
+4=Vendég
+1=Bejelentkezve, mint:
+5=Kérem, jelentkezzen be!
+6=Scrobbler kérelem állapota: %d / %d
+2=Néhány funkció nem használható kijelentkezés után. Folytatja?
+
+[Lastfm.Auth]
+btnAllowAccess=Hozzáférés engedélyezése
+btnOk=OK
+Caption=Engedély
+lbDetails=A beépülő helyes működéséhez engedélyeznie kell a hozzáférést a last.fm profiljához:\n\n1. Kattintson a "Hozzáférés engedélyezése" gombra, majd a last.fm megnyílik a böngészőjében.\n\n2. Kattintson az "Igen, engedélyezem" gombra a böngészőjében.\n\n3. Ezután kattintson az "OK" gombra a következő ablakban, hogy megerősítse a hozzáférését a last.fm profiljához.
+
+[Lastfm.Settings]
+btnLogOff=Kijelentkezés
+C1=Last.fm
+btnLog=Napló megjelenítése
+btnAuthorize=Engedélyezés
+lbAuthorizationWarning=* Engedélyezés szükséges
+lbProfileLink=Saját profil a Last.fm-en
+L1=Lejátszható fájl
+L2=Fájl scrobble-és, ha volt lejátszva:
+G2=Engedélyezés
+G1=Egyéb
+cbScrobbling=* Scrobble-és engedélyezése
+cbTrayIcon=Tálca ikon megjelenítése
+cbTrackInfo=Információk megjelenítése a lejátszott track-ről, lejátszás kezdetén
+cbTrayNotifyOnError=Hibák jelzése
+cbAlbumArtSearch=Album előadók letöltése a Last.fm szerverről
+cbAutoLove=* Ha több, mint 5 csillagot ad egy track-nek azt Kedveli
+cbAutoUnlove=* Ha kevesebb, mint 3 csillagot ad egy track-nek azt Nem kedveli
+
+[Lastfm.TrackInfo]
+Caption=Információk a lejátszható fájlokról
+L1=Helló, %s!
+pnlScrobblingProgress.h=Scrobbler folyamat
+L4=Hallgatók: %d
+L3=Lejátszások: %d
+Status=Információk keresése...|Információk a track-ről nem találhatók|Nincs lejátszva semmi
+
+[Lastfm.TrayIcon]
+acProfile=Saját profil
+acScrobbling=Scrobble-és engedélyezése
+acSettings=Beállítások
+acShowTrackInfo=Információk a track-ről
+acRecommendations=Saját ajánlások
+acErrorInfo=Hiba részletei
+acLoveTrack=Kedvel
+acUnloveTrack=Nem kedvel
