@@ -1,11 +1,4 @@
-﻿[FILE]
-Author=Artem Izmaylov
-Name=English (EN)
-VersionID=0
-Help=AIMP3-en.chm
-LangId=1033
-
-[Lastfm]
+﻿[Lastfm]
 3=An error occurs!
 4=Guest
 1=You are logged in as:
