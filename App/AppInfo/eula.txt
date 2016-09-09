@@ -17,7 +17,7 @@ AIMP (Software Product) is Freeware software and provided "AS IS".
 2. Limitations
 
 2.1.  You mustn't decompile, disassemble or modify program or its components.
-2.2.  You mustn't decompile, disassemble or modify skins presented in the .acs3 binary format.
+2.2.  You mustn't decompile, disassemble or modify skins presented in the .acs3 / .acs4 binary format.
 2.3.  You mustn't distribute this Software Product for material remuneration (without Right holder’s permission).
 2.4.  You mustn't distribute non-original installation distribution file(s) (without Right holder’s permission)
 2.5.  It's prohibited to delete copyright or any other information about authors or right holders of the Software Product.
@@ -49,19 +49,19 @@ E-Mail: support@aimp.ru
 
 6. Contacts
 
-   AIMP, © 2006-2013, Artem Izmaylov 
+   AIMP, © 2006-2016, Artem Izmaylov 
    Web: <http://www.aimp.ru>
    E-Mail: support@aimp.ru
 
 
 7. Third Party Software
 
-
-   © 1999-2013 Un4seen Developments Ltd. 
+   BASS Library
+   © 1999-2014 Un4seen Developments Ltd. 
    All rights reserved. (<http://www.un4seen.com>)
 
    BASSCD (Addon for BASS Library),
-   © 2003-2013 Un4seen Developments Ltd. 
+   © 2003-2014 Un4seen Developments Ltd. 
    All rights reserved. (<http://www.un4seen.com>)
 
    BASSFLAC (Addon for BASS Library),
@@ -110,8 +110,8 @@ Opus decoding is based on libOpus, Copyright 2001-2011 Xiph.Org, Skype Limited, 
    Portions © 1999-2006 Alexander Djourik. (<http://www.trueaudio.com>)
 
    BASS_WV (Addon for BASS Library),
-   © 2002-2013, Sebastian Andersson (sebastian.andersson@gmail.com).
-   Portions © 1998-2007, Conifer Software. (<http://wavpack.com/>)
+   © 2002-2014, Sebastian Andersson (sebastian.andersson@gmail.com).
+   Portions © 1998-2004, Conifer Software. (<http://wavpack.com/>)
 
    OptimFROG (Decoding Library)
    © 1996-2010, Florin Ghido (<http://www.losslessaudio.org>)
@@ -138,6 +138,10 @@ BPM calculation features based on BPM detection algorithm from SoundTouch librar
 © Olli Parviainen (<http://www.surina.net/soundtouch/>)
    Source code of BPM detection algorithm ported to Delphi language is available here:       
    <http://www.aimp.ru/index.php?do=download>
+
+   DSD/DST Decoding features were based on source code of SACD Decoder plugin 
+   © 2011-2013 Maxim V.Anisiutkin <maxim.anisiutkin@gmail.com>
+   Home page: <http://sourceforge.net/projects/sacddecoder/>
 
    The SoX Resampler library 
    © 2007-2013 Rob Sykes
