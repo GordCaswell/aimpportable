@@ -69,6 +69,7 @@
 			<preset Name="CBR:  320 kbps" cmdparams="-cbr 320000 -ignorelength -if - -of %output%" />
 			<preset Name="CBR:  360 kbps" cmdparams="-cbr 360000 -ignorelength -if - -of %output%" />
 			<preset Name="CBR:  400 kbps" cmdparams="-cbr 400000 -ignorelength -if - -of %output%" />
+			<preset Name="CBR:  512 kbps" cmdparams="-cbr 512000 -ignorelength -if - -of %output%" />
 			
 			<preset Name="VBR:  ~16 kbps" cmdparams="-q 0.0 -ignorelength -if - -of %output%" />
 			<preset Name="VBR:  ~30 kbps" cmdparams="-q 0.1 -ignorelength -if - -of %output%" />
