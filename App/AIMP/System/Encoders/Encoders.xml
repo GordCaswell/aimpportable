@@ -84,6 +84,28 @@
 			<preset Name="VBR: ~410 kbps" cmdparams="-q 1.0 -ignorelength -if - -of %output%" />
 		</presets>
 	</encoder>	
+	<encoder Name="AAC m4a (FDK)" App="fdkaac.exe">
+		<description>
+			<inputformats type="autogen">
+				<autogen SampleRates="8000;11025;12000;16000;22050;24000;32000;44100;48000;64000;88200;96000" SampleFormats="16" Channels="1;2;4;6;8" />
+			</inputformats>
+			<property name="Ext" value=".m4a" />
+		</description>
+		<presets>
+			<preset Name="CBR 16 kbps" cmdparams="-b 16 -I -S -o %output% -" />
+			<preset Name="CBR 32 kbps" cmdparams="-b 32 -I -S -o %output% -" />
+			<preset Name="CBR 64 kbps" cmdparams="-b 64 -I -S -o %output% -" />
+			<preset Name="CBR 128 kbps" cmdparams="-b 128 -I -S -o %output% -" />
+			<preset Name="CBR 256 kbps" cmdparams="-b 256 -w 20000 -I -S -o %output% -" default="1" />
+			<preset Name="CBR 320 kbps" cmdparams="-b 320 -w 20000 -I -S -o %output% -" />
+			<preset Name="CBR 512 kbps" cmdparams="-b 512 -w 20000 -I -S -o %output% -" />
+			<preset Name="VBR 1 ~80 kbps" cmdparams=" -m 1 -I -S -o %output% -" />
+			<preset Name="VBR 2 ~90 kbps" cmdparams=" -m 2 -I -S -o %output% -" />
+			<preset Name="VBR 3 ~110 kbps" cmdparams=" -m 3 -I -S -o %output% -" />
+			<preset Name="VBR 4 ~130 kbps" cmdparams=" -m 4 -I -S -o %output% -" />
+			<preset Name="VBR 5 ~200 kbps" cmdparams=" -m 5 -I -S -o %output% -" />
+		</presets>
+	</encoder>
 	<encoder Name="ALAC (refalac)" App="qaac\refalac.exe">
 		<description>
 			<inputformats type="autogen">
