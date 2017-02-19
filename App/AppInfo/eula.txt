@@ -43,43 +43,43 @@ AIMP (Software Product) is Freeware software and provided "AS IS".
 The Support is lent only if you have an actual and original build of the Software Product.
 
  You can get it via:
-Official Forum: <http://www.aimp.ru/forum/> 
-Special feedback form on the official site: <http://www.aimp.ru/index.php?do=feedback> 
+Official Forum: http://www.aimp.ru/forum/ 
+Special feedback form on the official site: http://www.aimp.ru/index.php?do=feedback 
 E-Mail: support@aimp.ru
 
 6. Contacts
 
-   AIMP, © 2006-2016, Artem Izmaylov 
-   Web: <http://www.aimp.ru>
+   AIMP, © 2006-2017, Artem Izmaylov 
+   Web: http://www.aimp.ru
    E-Mail: support@aimp.ru
 
 
 7. Third Party Software
 
    BASS Library
-   © 1999-2014 Un4seen Developments Ltd. 
-   All rights reserved. (<http://www.un4seen.com>)
+   © 1999-2017 Un4seen Developments Ltd. 
+   All rights reserved. (http://www.un4seen.com)
 
    BASSCD (Addon for BASS Library),
-   © 2003-2014 Un4seen Developments Ltd. 
-   All rights reserved. (<http://www.un4seen.com>)
+   © 2003-2017 Un4seen Developments Ltd. 
+   All rights reserved. (http://www.un4seen.com)
 
    BASSFLAC (Addon for BASS Library),
    © 2004-2013 Un4seen Developments Ltd. 
-   All rights reserved. (<http://www.un4seen.com>)
-   Portions FLAC © 2001-2008 Josh Coalson (<http://flac.sourceforge.net/>)
+   All rights reserved. (http://www.un4seen.com)
+   Portions FLAC © 2001-2008 Josh Coalson (http://flac.sourceforge.net/)
 
    BASSMIDI (Addon for BASS Library),
    © 2006-2013 Un4seen Developments Ltd. 
-   All rights reserved. (<http://www.un4seen.com>)
+   All rights reserved. (http://www.un4seen.com)
 
    BASSOPUS (Addon for BASS Library),
-Copyright (c) 2012-2013 Un4seen Developments Ltd. All rights reserved.
-Opus decoding is based on libOpus, Copyright 2001-2011 Xiph.Org, Skype Limited, Octasic, Jean-Marc Valin, Timothy B. Terriberry, CSIRO, Gregory Maxwell, Mark Borgerding, Erik de Castro Lopo
+   © 2012-2013 Un4seen Developments Ltd. All rights reserved.
+   Opus decoding is based on libOpus, Copyright 2001-2011 Xiph.Org, Skype Limited, Octasic, Jean-Marc Valin, Timothy B. Terriberry, CSIRO, Gregory Maxwell, Mark Borgerding, Erik de Castro Lopo
 
    BASSWMA (Addon for BASS Library),
    © 2002-2013 Un4seen Developments Ltd. 
-   All rights reserved. (<http://www.un4seen.com>)
+   All rights reserved. (http://www.un4seen.com)
 
    BASS_AAC (Addon for BASS Library), 
    © 2002-2013, Sebastian Andersson (sebastian.andersson@gmail.com)
@@ -91,11 +91,11 @@ Opus decoding is based on libOpus, Copyright 2001-2011 Xiph.Org, Skype Limited, 
 
    BASS_ALAC (Addon for BASS Library), 
    © 2002-2013, Sebastian Andersson (sebastian.andersson@gmail.com). All rights reserved.
-   Portions © 2006, David Hammerton. (<http://en.wikipedia.org/wiki/Apple_Lossless>)
+   Portions © 2006, David Hammerton. (http://en.wikipedia.org/wiki/Apple_Lossless)
 
    BASS_APE (Addon for BASS Library),
    © 2002-2013, Sebastian Andersson (sebastian.andersson@gmail.com)
-   Portions © 2000-2011, Matthew T. Ashland. (<http://www.monkeysaudio.com>)
+   Portions © 2000-2011, Matthew T. Ashland. (http://www.monkeysaudio.com)
 
    BASS_MPC (Addon for BASS Library),
    © 2002-2013, Sebastian Andersson (sebastian.andersson@gmail.com). All rights reserved.
@@ -103,50 +103,50 @@ Opus decoding is based on libOpus, Copyright 2001-2011 Xiph.Org, Skype Limited, 
 
    BASS_SPX (Addon for BASS Library),
    © 2002-2013, Sebastian Andersson (sebastian.andersson@gmail.com)
-   Portions © 2002-2006, Jean-Marc Valin, Xiph.Org Foundation (<http://www.speex.org>)
+   Portions © 2002-2006, Jean-Marc Valin, Xiph.Org Foundation (http://www.speex.org)
 
    BASS_TTA (Addon for BASS Library),
    © 2002-2013, Sebastian Andersson (sebastian.andersson@gmail.com)
-   Portions © 1999-2006 Alexander Djourik. (<http://www.trueaudio.com>)
+   Portions © 1999-2006 Alexander Djourik. (http://www.trueaudio.com)
 
    BASS_WV (Addon for BASS Library),
    © 2002-2014, Sebastian Andersson (sebastian.andersson@gmail.com).
-   Portions © 1998-2004, Conifer Software. (<http://wavpack.com/>)
+   Portions © 1998-2014, Conifer Software. (http://wavpack.com/)
 
    OptimFROG (Decoding Library)
-   © 1996-2010, Florin Ghido (<http://www.losslessaudio.org>)
+   © 1996-2010, Florin Ghido (http://www.losslessaudio.org)
 
    TAK_Deco_Lib (Decoding Library)
-   © 2006, Thomas Becker (<http://thbeck.de/Tak/Tak.html>)
+   © 2006, Thomas Becker (http://thbeck.de/Tak/Tak.html)
 
    Monkey's Audio (Encoding Library)
-   © 2000-2011, Matthew T. Ashland. (<http://www.monkeysaudio.com>)
+   © 2000-2011, Matthew T. Ashland. (http://www.monkeysaudio.com)
 
    FLAC  - Free Lossless Audio Codec (Encoding Library)
-   © 2001-2008 Josh Coalson (<http://flac.sourceforge.net>)
+   © 2001-2008 Josh Coalson (http://flac.sourceforge.net)
 
    WavPack - Hybrid Lossless Wavefile Compressor (Encoding Library)
-   © 1998 - 2007 Conifer Software  (<http://wavpack.com/>)
+   © 1998 - 2007 Conifer Software  (http://wavpack.com/)
 
    OGG Vorbis (Encoding Library)
-   © 2002-2004, Xiph.Org Foundation (<http://vorbis.com/>)
+   © 2002-2004, Xiph.Org Foundation (http://vorbis.com/)
 
    OPUS (Encoding Library) 
-© 2001-2011 Xiph.Org, Skype Limited, Octasic, Jean-Marc Valin, Timothy B. Terriberry, CSIRO, Gregory Maxwell, Mark Borgerding, Erik de Castro Lopo (<http://opus-codec.org>)
+© 2001-2011 Xiph.Org, Skype Limited, Octasic, Jean-Marc Valin, Timothy B. Terriberry, CSIRO, Gregory Maxwell, Mark Borgerding, Erik de Castro Lopo (http://opus-codec.org)
 
-BPM calculation features based on BPM detection algorithm from SoundTouch library.
-© Olli Parviainen (<http://www.surina.net/soundtouch/>)
+BPM calculation features were based on BPM detection algorithm from SoundTouch library.
+© Olli Parviainen (http://www.surina.net/soundtouch/)
    Source code of BPM detection algorithm ported to Delphi language is available here:       
-   <http://www.aimp.ru/index.php?do=download>
+   http://www.aimp.ru/index.php?do=download
 
    DSD/DST Decoding features were based on source code of SACD Decoder plugin 
    © 2011-2013 Maxim V.Anisiutkin <maxim.anisiutkin@gmail.com>
-   Home page: <http://sourceforge.net/projects/sacddecoder/>
+   Home page: http://sourceforge.net/projects/sacddecoder/
 
    The SoX Resampler library 
    © 2007-2013 Rob Sykes
    Under LGPL terms
-   <http://soxr.sourceforge.net/>
+   http://soxr.sourceforge.net/
 
    SQLite3 DataBase Engine
-   D. Richard Hipp,  (<www.sqlite.org>)
+   D. Richard Hipp,  (www.sqlite.org)

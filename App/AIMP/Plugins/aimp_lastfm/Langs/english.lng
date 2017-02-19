@@ -1,7 +1,7 @@
 ﻿[Lastfm]
 3=An error occurs!
 4=Guest
-1=You are logged in as:
+1=You are logged in as: %s
 5=You must log in!
 6=State of scrobbler queue: %d / %d
 2=Some functions will be unavailable after log out. Do you wish to continue?
